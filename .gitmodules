@@ -2,5 +2,8 @@
 path=pip
 url = https://github.com/pypa/pip.git
 [submodule "setuptools"]
-	path = setuptools
-	url = https://github.com/pypa/setuptools
+path=setuptools
+url = https://github.com/pypa/setuptools
+[submodule "wheel"]
+	path = wheel
+	url = https://github.com/pypa/wheel.git
